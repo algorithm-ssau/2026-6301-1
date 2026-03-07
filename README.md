@@ -1,1 +1,12 @@
-# 6301_team1
+<h1 align="center">💜 Здравствуйте, Александра Николаевна! 💜</h1> 
+<div align="center">
+  <img src="https://github.com/algorithm-ssau/6301_team1/blob/main/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%98%D0%A2-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC.png">
+</div>
+
+<h2 align="center">👾 Мы рады снова вас видеть! 👾</h2> 
+
+<p align="center", font-weight="bold">На этой странице всё-всё о нашем проекте по дисциплине ИТ-практикум!</p> 
+
+<p align="center">🟣 Посмотрим, сможете ли вы составить своё расписание 🟣</p> 
+
+---
